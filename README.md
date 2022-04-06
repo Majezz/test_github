@@ -35,3 +35,8 @@ File mở đầu project
 ### Chức năng ADMIN 4
 ### Chức năng ADMIN 4
 ### Chức năng ADMIN 4
+
+### Chức năng ADMIN 5
+### Chức năng ADMIN 5
+### Chức năng ADMIN 5
+### Chức năng ADMIN 5
